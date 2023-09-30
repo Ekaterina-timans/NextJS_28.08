@@ -1,0 +1,39 @@
+.inputToDoList {
+    width: 180px;
+    height: 30px;
+    font-size: 20px;
+}
+.btnToDoList {
+    height: 36px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+	background: #3a7999;
+	color: #f2f2f2;
+}
+.btnToDoList:hover {
+	background: rgba(0,0,0,0);
+	color: #3a7999;
+	box-shadow: inset 0 0 0 3px #3a7999;
+}
+.h2Text {
+    color: #3a7999;
+    font-family: arial;
+}
+.btnDelete {
+    cursor: pointer;
+    border: none;
+    background: rgba(0,0,0,0);
+	color: #3a7999;
+	box-shadow: inset 0 0 0 3px #3a7999;
+    width: 20px;
+    height: 20px;
+}
+.textInList {
+    font-size: 25px;
+}
+.btnCheckbox {
+    width: 16px;
+    height: 16px;
+}
